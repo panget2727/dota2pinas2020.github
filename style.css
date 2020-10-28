@@ -1,0 +1,22 @@
+html {
+	background: url('background.jpg');
+	-webkit-background-size:cover;
+	background-size: cover;
+}
+
+h1 {
+	text-align: center;
+	color: red;
+}
+
+video {
+	margin-left: %;
+	position: relative;
+}
+p {
+	color: white;
+}
+p1 {
+	color: white;
+	text-align: center;
+}
